@@ -8,10 +8,10 @@ Exemplo de criação de CRUD em ASP Clássico com banco de dados MySQL.
 | **MySQL** | Utilização do Driver Unicode 5.3|
 | **ASP Clássico** | Utilização de Linguaguem VbScript |
 
-#### Execução da aplicação
+#### Executar a aplicação
 - Necessário instalar driver MySQL [mysql-connector-odbc-5.3.13-win32](https://dev.mysql.com/blog-archive/mysql-connector-odbc-5-3-13/).
 - Necessário Habilitar Aplicativos de 32 Bits no servidor IIS do Windows. 
-- Para executar a aplicação é necessário rodar Script banco de dados. 
+- Para executar a aplicação é necessário executar o Script MySQL. 
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **abreconexao.asp**, no trecho indicado:
