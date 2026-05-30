@@ -4,9 +4,9 @@ Exemplo de criação de CRUD em ASP Clássico com banco de dados MySQL.
 #### O que voçê vai ver nesse Projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
-| **HTML5** | Utilização de Template Responsivo [owlcarousel](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html) |
 | **MySQL** | Utilização do Driver Unicode 5.3|
 | **ASP Clássico** | Utilização de Linguaguem VbScript |
+| **HTML5** | Template Responsivo [owlcarousel](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html) |
 
 #### 🔄 Executar a aplicação
 - Necessário instalar driver MySQL [mysql-connector-odbc-5.3.13-win32](https://dev.mysql.com/blog-archive/mysql-connector-odbc-5-3-13/).
